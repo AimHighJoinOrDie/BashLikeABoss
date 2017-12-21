@@ -40,7 +40,7 @@ Go to -> https://github.com/Bash-it/bash-it
 
 It significantly slows Bash, but it is pretty cool.
 Bash-It can add features like a clock or battery life meter to your Bash command line. 
-It is also an alternative location to add export statments (like with the JDK path).
+It is also an alternative location to add export statements (like with the JDK path).
 
 # Feel free to contact me with Questions
 Email: Sean.hazlett2@gmail.com 
