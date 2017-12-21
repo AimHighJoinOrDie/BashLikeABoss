@@ -33,7 +33,7 @@ This is the command for my particular computer / directory; it could vary for yo
 (Just find where the JDK is and its name.)
 Now, you can run "java HelloWorld" or "javac HelloWorld.java"
 
-# Additional
+# Additional Info. 
 I have also installed Bash-It on one of my laptops.  
 
 Go to -> https://github.com/Bash-it/bash-it
