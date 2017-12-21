@@ -4,21 +4,21 @@ Quick guide on how to get the most out of VIM (according to a high school studen
 ## Student Upgrade for GitHub 
 Applying for a student pack gets you free unlimited private repositories (and lots of other stuff)
 
-Go to -> [Here](https://education.github.com/)
+Go to -> [GitHub for Education](https://education.github.com/)
 
 Apply for the pack and wait a few hours for the upgrade.  
 
 ## Step 1 (To Upgrade Vim)
 Install Vundle (Plugin Manager)
 
-Go to -> [Here](https://github.com/VundleVim/Vundle.vim)
+Go to -> [Vundle](https://github.com/VundleVim/Vundle.vim)
 
 Follow Quick Start instructions
 
 ## Step 2 
 Visit Vim Awesome and add useful plugins
 
-Go to -> [Here](https://vimawesome.com/)
+Go to -> [Vim Awesome](https://vimawesome.com/)
 
 The Nerd Tree is the most useful plugin of all; it allows for easy navigation.  
 Remember to run :PluginInstall in vim after you add plugins (type "vim" in Bash and run from there)
@@ -36,7 +36,7 @@ Now, you can run "java HelloWorld" or "javac HelloWorld.java"
 ## Additional Info. 
 I have also installed Bash-It on one of my laptops.  
 
-Go to -> [Here](https://github.com/Bash-it/bash-it)
+Go to -> [Bash-It](https://github.com/Bash-it/bash-it)
 
 It significantly slows Bash, but it is pretty cool.
 Bash-It can add features like a clock or battery life meter to your Bash command line. 
