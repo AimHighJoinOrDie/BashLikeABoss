@@ -32,15 +32,15 @@ Remember to run :PluginInstall in vim after you add plugins (type "vim" in Bash 
 Can you run / compile java programs? Add:
 ```markdown
 export PATH=$PATH:"/C/Program Files/Java/jdk-9.0.1/bin/"
-''' 
+```
 to the end of your .vimrc or .bashrc . 
 This is the command for my particular computer / directory; it could vary for you.  
 (Just find where the JDK is and its name.)
 Now, you can run:
-
+```markdown
 javac HelloWorld.java
 java HelloWorld
-
+```
 ## Additional Info. 
 I have also installed Bash-It on one of my laptops.  
 
