@@ -6,6 +6,10 @@ Applying for a student pack gets you free unlimited private repositories (and lo
 
 Go to -> [GitHub for Education](https://education.github.com/)
 
+
+![](https://aimhighjoinordie.github.io/BashLikeABoss/assets/GitEdu.png)
+
+
 Apply for the pack and wait a few hours for the upgrade.  
 
 ## Step 1 (To Upgrade Vim)
