@@ -1,5 +1,5 @@
 # Bash Like A Boss
-Quick guide on how to get the most out of VIM / Bash / GitHub (according to a high school student and help from Mr. McKinstry)
+Quick guide on how to get the most out of VIM / Bash / GitHub (according to a high school student and help from [Mr. McKinstry](https://github.com/RobbieMcKinstry))
 
 ## Student Upgrade for GitHub 
 Applying for a student pack gets you free unlimited private repositories (and lots of other stuff)
