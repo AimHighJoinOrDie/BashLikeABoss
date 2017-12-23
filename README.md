@@ -29,14 +29,17 @@ The Nerd Tree is the most useful plugin of all; it allows for easy navigation.
 Remember to run :PluginInstall in vim after you add plugins (type "vim" in Bash and run from there)
 
 ## Step 3 
-Can you run / compile java programs? 
-
-add ->    export PATH=$PATH:"/C/Program Files/Java/jdk-9.0.1/bin/"
-
+Can you run / compile java programs? Add:
+markdown '''
+export PATH=$PATH:"/C/Program Files/Java/jdk-9.0.1/bin/"
+markdown '''
 to the end of your .vimrc or .bashrc . 
 This is the command for my particular computer / directory; it could vary for you.  
 (Just find where the JDK is and its name.)
-Now, you can run "java HelloWorld" or "javac HelloWorld.java"
+Now, you can run:
+
+javac HelloWorld.java
+java HelloWorld
 
 ## Additional Info. 
 I have also installed Bash-It on one of my laptops.  
