@@ -30,9 +30,9 @@ Remember to run :PluginInstall in vim after you add plugins (type "vim" in Bash 
 
 ## Step 3 
 Can you run / compile java programs? Add:
-markdown '''
+```markdown
 export PATH=$PATH:"/C/Program Files/Java/jdk-9.0.1/bin/"
-markdown '''
+''' 
 to the end of your .vimrc or .bashrc . 
 This is the command for my particular computer / directory; it could vary for you.  
 (Just find where the JDK is and its name.)
