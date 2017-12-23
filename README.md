@@ -22,7 +22,9 @@ Go to -> [Vim Awesome](https://vimawesome.com/)
 
 The Nerd Tree is the most useful plugin of all; it allows for easy navigation. 
 
+
 ![](https://aimhighjoinordie.github.io/BashLikeABoss/assets/NT.png)
+
 
 Remember to run :PluginInstall in vim after you add plugins (type "vim" in Bash and run from there)
 
